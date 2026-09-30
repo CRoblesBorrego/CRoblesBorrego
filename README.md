@@ -1,6 +1,6 @@
 ### Hola, soy Carlos 👋
 
-Ingeniero de automatización con IA. Diseño y pongo en producción flujos que combinan modelos de lenguaje, orquestadores
+Desarrollador de automatización con IA. Diseño y pongo en producción flujos que combinan modelos de lenguaje, orquestadores
 como n8n y aplicaciones web propias, con criterio de seguridad y protección de datos.
 
 *AI automation engineer: LLM workflows, integrations and production web apps, built with security and data protection in mind.*
