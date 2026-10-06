@@ -1,4 +1,4 @@
-### Hola, soy Carlos 👋
+### Hola, soy Carlos
 
 Desarrollador de automatización con IA. Diseño y pongo en producción flujos que combinan modelos de lenguaje, orquestadores
 como n8n y aplicaciones web propias, con criterio de seguridad y protección de datos.
